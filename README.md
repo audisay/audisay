@@ -2,6 +2,7 @@
 ---
 
 ![logo](https://github.com/user-attachments/assets/e90fadca-2249-43b6-ad62-2f22a99dc3cf){: width="120" height="120"}
+![오디세이 커버](https://github.com/user-attachments/assets/c3412737-96ba-4614-a817-f39852b1dde5)
 
 
 Audisay는 시각장애인을 위한 AI 기반 접근성 도서 지원 서비스입니다. 
