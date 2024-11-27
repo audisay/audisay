@@ -1,20 +1,18 @@
 # Audisay
 ---
 
-![logo](https://github.com/user-attachments/assets/e90fadca-2249-43b6-ad62-2f22a99dc3cf){: width="120" height="120"}
-![오디세이 커버](https://github.com/user-attachments/assets/c3412737-96ba-4614-a817-f39852b1dde5)
-
+<img src="https://github.com/user-attachments/assets/e90fadca-2249-43b6-ad62-2f22a99dc3cf"  width="120" height="120"/>
 
 Audisay는 시각장애인을 위한 AI 기반 접근성 도서 지원 서비스입니다. 
 
 우리 서비스는 시각장애인이 쉽게 접근할 수 있는 도서 자료를 자동으로 제작하고, 사용자 친화적인 인터페이스를 제공하여 시각장애인 독서의 불편함을 해소하고자 합니다. 
 
 
-| <img src="https://github.com/rime-y.png" width="100"> | <img src="https://github.com/Remnant1318.png" width="100"> | <img src="https://github.com/tkdcks7.png" width="100"> | <img src="https://github.com/aa001R.png" width="100">     | <img src="https://github.com/sook000.png" width="100">     | <img src="https://github.com/Elenaljh.png" width="100">     |
+| <img src="https://github.com/my-rei.png" width="100"> | <img src="https://github.com/Remnant1318.png" width="100"> | <img src="https://github.com/tkdcks7.png" width="100"> | <img src="https://github.com/aa001R.png" width="100">     | <img src="https://github.com/sook000.png" width="100">     | <img src="https://github.com/Elenaljh.png" width="100">     |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 이예림 | 강동완 | 강상찬 | 김아름 | 안치숙 | 이지혜 |
 | 팀장 & Backend | Frontend | Frontend | Backend | Backend | Backend |
-|  [GitHub](https://github.com/rime-y) | [GitHub](https://github.com/Remnant1318) | [GitHub](https://github.com/tkdcks7) | [GitHub](https://github.com/aa001R) | [GitHub](https://github.com/sook000) | [GitHub](https://github.com/Elenaljh) |
+|  [GitHub](https://github.com/my-rei) | [GitHub](https://github.com/Remnant1318) | [GitHub](https://github.com/tkdcks7) | [GitHub](https://github.com/aa001R) | [GitHub](https://github.com/sook000) | [GitHub](https://github.com/Elenaljh) |
 
 
 ---
@@ -23,39 +21,38 @@ Audisay는 시각장애인을 위한 AI 기반 접근성 도서 지원 서비스
 
 ---
 
-#### [1. 프로젝트 소개](#1.-프로젝트-소개)
+#### [1. 프로젝트 소개](#1-프로젝트-소개-1)
 
 
-- [🔍 프로젝트 개요](#🔍-프로젝트-개요)
+- [🔍 프로젝트 개요](#-프로젝트-개요)
 
-- [🏹 서비스 주제 및 목표](#🏹-서비스-주제-및-목표)
+- [🏹 서비스 주제 및 목표](#-서비스-주제-및-목표)
 
-- [🎬 기획 배경](#🎬-기획-배경)
+- [🎬 기획 배경](#-기획-배경)
 
-- [🎁 기대 효과 ](#🎁-기대-효과)
-
-
-
-#### [2. 프로젝트 정보](#2.-프로젝트-정보)
-
-- [🏡 개발 스택](#🏡-개발-스택)
-
-- [🧩 아키텍처](#🧩-아키텍처)
-
-- [🎨 API 명세서](#🎨-API-명세서)
-
-- [📚 ERD 설계](#📚-ERD-설계)
-
-- [📝 컨벤션](#📝-컨벤션)
+- [🎁 기대 효과 ](#-기대-효과)
 
 
-#### [3. 프로젝트 결과물](#3.-프로젝트-결과물)
+#### [2. 프로젝트 결과물](#2-프로젝트-결과물-1)
 
-- [🔮 주요 기능](#🔮-주요-기능)
+- [🔮 주요 기능](#-주요-기능)
 
-- [🥰 팀원 소개](#🥰-팀원-소개)
 
-- [📽️ UCC](#📽️-UCC)
+#### [3. 프로젝트 정보](#3-프로젝트-정보-1)
+
+- [🏡 개발 스택](#-개발-스택)
+
+- [🧩 아키텍처](#-아키텍처)
+
+- [🎨 API 명세서](#-api-명세서)
+
+- [📚 ERD 설계](#-erd-설계)
+
+- [📝 컨벤션](#-컨벤션)
+
+- [🥰 팀원 소개](#-팀원-소개)
+
+- [📽️ UCC](#%EF%B8%8F-ucc)
 
 ---
 
@@ -185,6 +182,7 @@ Audisay는 시각장애인을 위한 AI 기반 접근성 도서 지원 서비스
 | **JPA (Hibernate)** | 6.5.3.Final                                    |
 | **QueryDSL**      | 5.0.0                                            |
 | **Swagger**       | 2.2.0                                            |
+| **Python**        | 3.12                                             |
 | **FastAPI**       | 0.115.4                                          |
 | **Django**        | 5.1.2                                            |
 | **YOLO**          | DocLayout-YOLO                                   |
